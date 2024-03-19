@@ -29,13 +29,15 @@ senhaDigitada = entrada('Digite a senha para entrar: ');
 
 
 do{
-    senhaDigitada != senha;
+    senhaDigitada != senha
     error === error+1
 
-    if(error = 3){
-        result = 'Senha Bloqueada'
-    }
+    
 
 }while (senhaDigitada = senha );
+
+if(error = 3){
+    result = 'Senha Bloqueada'
+}
 
 console.log('Você acessou');
