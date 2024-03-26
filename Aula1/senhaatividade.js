@@ -19,6 +19,7 @@ let senhaDigitada = '';
 
 senhaDigitada = entrada('Digite a senha para entrar: ');
 
+
 /*if(senhaDigitada === senha){
     result = 'Você acessou'
 } else{
@@ -27,7 +28,7 @@ senhaDigitada = entrada('Digite a senha para entrar: ');
 
 //resolver esse parte
 
-
+/*
 do{
     senhaDigitada != senha
     result = 'senha incorreta'
@@ -41,3 +42,4 @@ if(error = 3){
 }
 
 console.log('Você acessou');
+*/
