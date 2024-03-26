@@ -30,7 +30,7 @@ senhaDigitada = entrada('Digite a senha para entrar: ');
 
 do{
     senhaDigitada != senha
-    error === error+1
+    result = 'senha incorreta'
 
     
 
